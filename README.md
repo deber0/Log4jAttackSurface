@@ -40,8 +40,3 @@ Log4j impact on manufacturers and components summary from the Internet community
 | [LinkedIn](pages/LinkedIn.md)                  |       | TRUE     |
 | [VMWarevCenter](pages/VMWarevCenter.md)                  |       | TRUE     |
 | [Speed camera LOL](pages/SpeedCamera.md)                  |       | TRUE     |
-
-
-
-## MEME XD
-[MEME](pages/MEME.md) 
